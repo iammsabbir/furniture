@@ -6,3 +6,7 @@
     font-family: RoxboroughCF;
     src: url(font/RoxboroughCF.ttf);
 }
+@font-face {
+    font-family: Raleway-ExtraBold;
+    src: url(font/Raleway-ExtraBold.ttf);
+}

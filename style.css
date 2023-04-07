@@ -15,9 +15,30 @@ h3
     letter-spacing: 0.1em;
     color: #2A2A2A;
 }
+h1
+{
+    font-family: Raleway-ExtraBold;
+    color: #2A2A2A;
+    font-weight: bolder;
+    text-align: center;
+    padding-bottom: 40px;
+}
 
 /*<<<<<<<<<<<<<<<<<<<<fontsection>>>>>>>>>fontsection>>>>>>>>*/
 /*<<<<<<<<<<<<<<<<<<<<fontsection>>>>>>>>>fontsection>>>>>>>>*/
+#product-category
+{
+    padding-top: 50px;
+}
+#product-category h3
+{
+    text-align: center;
+    padding: 0.5rem;
+    color: #2A2A2A;
+    background-color: #b9b9b94b;
+    border-radius: 5px;
+    backdrop-filter: blur(4px);
+}
 .navigation
 {
     width: 100%;
