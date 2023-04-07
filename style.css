@@ -6,10 +6,14 @@
 }
 p{
     font-family: Raleway;
+    color: #B9B9B9;
 }
 h3
 {
     font-family: RoxboroughCF;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    color: #2A2A2A;
 }
 
 /*<<<<<<<<<<<<<<<<<<<<fontsection>>>>>>>>>fontsection>>>>>>>>*/
