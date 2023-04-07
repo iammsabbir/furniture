@@ -1,0 +1,27 @@
+/*<<<<<<<<<<<<<<<<<<<<fontsection>>>>>>>>>fontsection>>>>>>>>*/
+/*<<<<<<<<<<<<<<<<<<<<fontsection>>>>>>>>>fontsection>>>>>>>>*/
+.navigation a
+{
+    font-family: Raleway;
+}
+p{
+    font-family: Raleway;
+}
+h3
+{
+    font-family: RoxboroughCF;
+}
+
+/*<<<<<<<<<<<<<<<<<<<<fontsection>>>>>>>>>fontsection>>>>>>>>*/
+/*<<<<<<<<<<<<<<<<<<<<fontsection>>>>>>>>>fontsection>>>>>>>>*/
+.navigation
+{
+    width: 100%;
+    background-color: #E27C43;
+}
+.ci-bg
+{
+    background-color: #e27d436e;
+    border-radius: 5px;
+    backdrop-filter: blur(4px);
+}
